@@ -17,5 +17,6 @@ deanna ~/Development/BSpiVB $
 ```
 
 These outputs are easily verified using online sources of large numbers of digits of Pi, for example,
-[100,000 Digits of Pi](http://www.geom.uiuc.edu/~huberty/math5337/groupe/digits.html) by Michael Huberty,
+[100,000 Digits of Pi](http://www.geom.uiuc.edu/~huberty/math5337/groupe/digits.html) by
+[Michael D. Huberty](https://www.linkedin.com/in/michael-huberty-21612614a/),
 Chia Vang, and Ko Hayashi, of the University of Minnesota, circa 1997.
